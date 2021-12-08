@@ -23,8 +23,8 @@
 ## Anggota Tim
 | NPM           | Nama                       |
 | ------------- |----------------------------|
+| 140810200018  | Zhillan Thafhan Ahda       |
 | 140810200038  | Pujo Prayogo               |
-| 140810200044  | Zhillan Thafhan Ahda       |
 | 140801200062  | Zahran Hanif Fathanmubin   |
 
 
